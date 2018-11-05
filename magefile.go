@@ -102,7 +102,7 @@ var platforms []Platform = []Platform{
 	{"windows", "amd64", ".exe"},
 	{"windows", "386", ".exe"},
 	{"freebsd", "amd64", ""},
-	{"linux", "armv6l", ""},
+	{"linux", "arm", ""},
 }
 
 // productName can be overridden by environ product name
